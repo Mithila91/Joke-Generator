@@ -86,7 +86,7 @@ button:active{
 
 .Chuck{
     position: absolute;
-    bottom: -5%;
+    bottom: 0;
     left: 0;
     max-width: 100%;
     height: auto;
@@ -95,7 +95,7 @@ button:active{
 
 .Trump{
     position: absolute;
-    bottom: -5%;
+    bottom: 0;
     right: 0;
     max-width: 100%;
     height: auto;
