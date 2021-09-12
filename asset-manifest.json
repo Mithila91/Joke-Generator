@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Joke-Generator/static/css/main.df5a7e91.chunk.css",
+    "main.js": "/Joke-Generator/static/js/main.9610b95c.chunk.js",
+    "main.js.map": "/Joke-Generator/static/js/main.9610b95c.chunk.js.map",
+    "runtime-main.js": "/Joke-Generator/static/js/runtime-main.e806df29.js",
+    "runtime-main.js.map": "/Joke-Generator/static/js/runtime-main.e806df29.js.map",
+    "static/js/2.66d7076c.chunk.js": "/Joke-Generator/static/js/2.66d7076c.chunk.js",
+    "static/js/2.66d7076c.chunk.js.map": "/Joke-Generator/static/js/2.66d7076c.chunk.js.map",
+    "index.html": "/Joke-Generator/index.html",
+    "static/css/main.df5a7e91.chunk.css.map": "/Joke-Generator/static/css/main.df5a7e91.chunk.css.map",
+    "static/js/2.66d7076c.chunk.js.LICENSE.txt": "/Joke-Generator/static/js/2.66d7076c.chunk.js.LICENSE.txt",
+    "static/media/Chuck-Norris-Guns.b3033267.png": "/Joke-Generator/static/media/Chuck-Norris-Guns.b3033267.png",
+    "static/media/style.css": "/Joke-Generator/static/media/Phosphor CG.6055573f.otf",
+    "static/media/trump.a0edcf8e.png": "/Joke-Generator/static/media/trump.a0edcf8e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e806df29.js",
+    "static/js/2.66d7076c.chunk.js",
+    "static/css/main.df5a7e91.chunk.css",
+    "static/js/main.9610b95c.chunk.js"
+  ]
+}
